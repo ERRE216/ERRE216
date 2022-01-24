@@ -9,4 +9,4 @@ ERRE216/ERRE216 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRE216&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRE216&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
